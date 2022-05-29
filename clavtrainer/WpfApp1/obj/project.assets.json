@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ПК\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Миша\\.nuget\\packages\\": {},
+    "F:\\tt\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\clavtrainer\\clavtrainer\\WpfApp1\\WpfApp1.csproj",
+      "projectUniqueName": "D:\\Новая папка\\clavtrainer\\clavtrainer\\WpfApp1\\WpfApp1.csproj",
       "projectName": "WpfApp1",
-      "projectPath": "C:\\clavtrainer\\clavtrainer\\WpfApp1\\WpfApp1.csproj",
-      "packagesPath": "C:\\Users\\ПК\\.nuget\\packages\\",
-      "outputPath": "C:\\clavtrainer\\clavtrainer\\WpfApp1\\obj\\",
+      "projectPath": "D:\\Новая папка\\clavtrainer\\clavtrainer\\WpfApp1\\WpfApp1.csproj",
+      "packagesPath": "C:\\Users\\Миша\\.nuget\\packages\\",
+      "outputPath": "D:\\Новая папка\\clavtrainer\\clavtrainer\\WpfApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "F:\\tt\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ПК\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Миша\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -68,7 +68,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
